@@ -97,7 +97,7 @@ Here is an example of a deployed server: https://github.com/benspector-mls/first
 
 **Deployment Technical Requirements**
 
-- [ ] Your GitHub page has a link to the deployed server in the About section. 
+- [https://eight-0-0-assignment-ismaelenriquez.onrender.com ] Your GitHub page has a link to the deployed server in the About section. 
 
 ## Submit
 
